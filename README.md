@@ -1,9 +1,4 @@
-### Hi! Welcome to my GitHub account
-
-A Frontend Developer wannabe, I can work by myself and as a team. Currently learning about flutter, and react.
-
-- 🍕 Frontend Developer wannabe
-- 🍪 Fun Fact : I love cookies, it's awsome
+Is it the impostor from amongus
 
 ### My GitHub Statistics 
 <p align="left">
